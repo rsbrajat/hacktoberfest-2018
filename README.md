@@ -1216,6 +1216,12 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 - [![twitter-alt][twitter-img]](https://twitter.com/rahman_younus)
   [![github-alt][github-img]](https://github.com/rahman95)
 
+### Rajat Singh
+
+- Student, Code Freek, Geek
+- [![github-alt][github-img]](https://github.com/rsbrajat)
+
+
 ### Raspal Seni
 
 - Freelance Writer, WordPress Developer, Linux Geek
