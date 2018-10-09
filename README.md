@@ -1323,7 +1323,11 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   
 ### Rafael Dantas
 
-- Student of Computer Science at the Federal University of Campina Grande (UFCG).  
+- Student of Computer Science at the Federal University of Campina Grande (UFCG).
+
+
+### Rajat Singh
+- Student of Computer Science at KIET.
 
 ### Rachit Manchanda
 
